@@ -1,5 +1,5 @@
 {
-  "name": "grunt-css-prefix",
+  "name": "grunt-css-prefix-extended",
   "description": "prefixing css using rework",
   "version": "0.2.3",
   "homepage": "",
@@ -7,12 +7,18 @@
     "name": "Anas Nakawa",
     "email": "anas.nakawa@gmail.com"
   },
+  "contributors" : [
+    {
+      "name" : "Ondrej Masek",
+      "email" : "masek@avast.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/anasnakawa/grunt-css-prefix"
+    "url": "https://github.com/masek-av/grunt-css-prefix"
   },
   "bugs": {
-    "url": "https://github.com/anasnakawa/grunt-css-prefix/issues"
+    "url": "https://github.com/masek-av/grunt-css-prefix/issues"
   },
   "licenses": [
     {

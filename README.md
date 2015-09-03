@@ -51,6 +51,13 @@ Default value: `''`
 
 Strip any class name from a given string.
 
+#### options.ignore
+Type: `Array`
+Default value: `[]`
+
+Skip classes that start with one of the provided values.
+
+
 #### options.processName
 Type: `String`
 Default value: `'dasherize'`

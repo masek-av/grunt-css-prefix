@@ -34,7 +34,8 @@ module.exports = function(grunt) {
         options: {
           prefix: 'libname-',
           processName: 'dasherize',
-          strip: 'fa-'
+          strip: 'fa-',
+          ignore : ["app-"]
         },
         files: {
           'test/tmp/test.dist.css': [ 'test/test.css' ]

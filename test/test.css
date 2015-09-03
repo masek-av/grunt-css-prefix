@@ -5,6 +5,10 @@
   animation-fill-mode: both;
 }
 
+.app-external-prefix {
+	color : #F00;
+}
+
 .foo.bar {
 	display: none;
 }
